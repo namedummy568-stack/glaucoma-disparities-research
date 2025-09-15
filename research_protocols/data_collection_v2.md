@@ -15,6 +15,7 @@ This protocol outlines the methodology for collecting glaucoma patient data, wit
     *   **Optical Coherence Tomography (OCT):** Peripapillary RNFL thickness, macular ganglion cell complex (GCC) thickness.
     *   **Visual Field (VF):** Humphrey Field Analyzer (HFA) 24-2 SITA Standard, Mean Deviation (MD), Pattern Standard Deviation (PSD).
     *   **Optic Nerve Head (ONH) Assessment:** Clinical disc photographs, cup-to-disc ratio, neuroretinal rim assessment.
+    *   **Central Corneal Thickness (CCT):** Pachymetry measurements.
 *   **Medical History:** Systemic comorbidities (hypertension, diabetes), family history of glaucoma, current ocular medications, medication adherence (self-reported).
 *   **Social Determinants of Health:** Access to transportation, proximity to eye care facilities, health literacy assessment.
 
